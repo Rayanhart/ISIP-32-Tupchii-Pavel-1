@@ -1,3 +1,12 @@
 .spring {
 	background-image: url('img/background1.png');
 }
+
+.quality {
+	background-image: url('img/background.png');
+}
+
+.footer {
+	background-color: #444240;
+	color: #FFFFFF;
+}
